@@ -20,4 +20,4 @@ I am Chandan, a dedicated technology enthusiast. I am passionate about leveragin
 
 ## Connect with Me
 - [LinkedIn](https://shorturl.at/PHtTK)
-- [Portfolio Website](https://chandanp2.github.io/Chandan/)
+- [Portfolio Website](https://chandan-911.github.io/Chandan/)
